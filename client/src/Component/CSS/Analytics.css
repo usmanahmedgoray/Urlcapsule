@@ -1,0 +1,38 @@
+
+.UrlAnalytics{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.analyticsBox{
+    width: 32vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: teal;
+    border-radius: 9px;
+}
+
+.analyticsBtn{
+    width: 12vw;
+    height: 10vh;
+}
+
+.AnalyticsResults{
+    border: 2px solid red;
+    max-width: 23%;
+    height: 100%;
+    background: #195e60;
+    color: white;
+}
+
+.totalSearches{
+    font-size: xx-large;
+
+}
